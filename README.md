@@ -1,4 +1,8 @@
-## Hi there 👋
+<div style="display: flex; align-items: center;">
+  <a href="https://solved.ac/juwan9943" style="margin-right: 10px;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juwan9943" alt="Solved.ac 프로필" height="150">
+  </a>
+</div>
 
 <!--
 **NAMJUWAN-1/NAMJUWAN-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
